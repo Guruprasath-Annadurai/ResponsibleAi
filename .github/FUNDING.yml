@@ -1,0 +1,48 @@
+# 🤝 Support ResponsibleAI Development
+
+# This file specifies how you can support the ResponsibleAI project
+# GitHub will display a "💜 Sponsor" button on the repository
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# GitHub Sponsors (Primary - Direct Support)
+github: [Guruprasath-Annadurai]
+
+# Patreon (Recurring Monthly Support)
+patreon: guruprasath
+
+# Open Collective (Transparent Community Funding)
+open_collective: responsibleai
+
+# Ko-fi (One-Time & Monthly Donations)
+ko_fi: guruprasath
+
+# Tidelift (Enterprise Support & Maintenance)
+# tidelift: npm/responsibleai
+
+# Community Bridge (Cloud Foundation)
+# community_bridge: responsibleai
+
+# LiberaPay (Privacy-Focused Recurring)
+liberapay: guruprasath
+
+# IssueHunt (Bounty-Based Development)
+issuehunt: Guruprasath-Annadurai/BiasBusters
+
+# LFX Crowdfunding (Linux Foundation)
+# lfx_crowdfunding: responsibleai
+
+# Polar (Modern Platform for Open Source)
+# polar: guruprasath
+
+# Buy Me A Coffee (Popular Quick Support)
+buy_me_a_coffee: guruprasath
+
+# Thanks.dev (Developer Sponsorship)
+# thanks_dev: guruprasath
+
+# Custom Sponsorship Links
+custom:
+  - "https://responsibleai.dev/support"
+  - "https://www.buymeacoffee.com/guruprasath"
+  - "https://opencollective.com/responsibleai"
+  - "https://github.com/sponsors/Guruprasath-Annadurai"
